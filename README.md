@@ -12,5 +12,5 @@ npm start
 
 Note/Assumptions:
 ----------------
-1) created for demo purpose, refer teh src/components/dashboard.js and /src/data/ for dashboard UI
+1) created for demo purpose, refer the src/components/dashboard.js and /src/data/ for dashboard UI
 2) styling not implemented as part of this dashboard data load demo
